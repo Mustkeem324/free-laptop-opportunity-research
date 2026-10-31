@@ -1,0 +1,91 @@
+{
+  "report_metadata": {
+    "execution_date": "2026-10-31",
+    "target_jurisdiction": "India (Uttar Pradesh / Delhi NCR)",
+    "target_profile": {
+      "age": 26,
+      "education": "B.Tech (EE), MBA",
+      "employment_status": "Freelancer / Job Seeker",
+      "student_status": "Non-enrolled / Completed"
+    }
+  },
+  "verified_opportunities": [
+    {
+      "program_name": "LFX Mentorship (Linux Foundation)",
+      "official_url": "https://mentorship.lfx.linuxfoundation.org/",
+      "evidence_snippet": "Open to non-students and working professionals aged 18+. Stipend for India residents is $1,300 USD paid in milestones upon mentor evaluation.",
+      "india_eligibility": "Confirmed eligible (India PPP tier supported)",
+      "verification_status": "Verified Active",
+      "cost_to_user": "100% Free (Disburses cash stipend)"
+    },
+    {
+      "program_name": "Google Summer of Code (GSoC)",
+      "official_url": "https://summerofcode.withgoogle.com/",
+      "evidence_snippet": "Eligibility opened to all adults 18+ regardless of student status. Indian contributors receive PPP-adjusted stipends from ₹71,250 to ₹2,85,000 INR.",
+      "india_eligibility": "Confirmed eligible",
+      "verification_status": "Verified Active",
+      "cost_to_user": "100% Free (Disburses cash stipend)"
+    },
+    {
+      "program_name": "Outreachy",
+      "official_url": "https://www.outreachy.org/",
+      "evidence_snippet": "Remote internships for individuals subject to systemic tech barriers. Open to non-students and part-time freelancers. Stipend is $7,000 USD.",
+      "india_eligibility": "Confirmed eligible",
+      "verification_status": "Verified Active",
+      "cost_to_user": "100% Free (Disburses cash stipend)"
+    },
+    {
+      "program_name": "Digital Empowerment Foundation (DEF) - Digital Daan",
+      "official_url": "https://defindia.org/digital-daan/",
+      "evidence_snippet": "Crowdsourced refurbished laptop and computer redistribution program for community centres and rural digital hubs across India.",
+      "india_eligibility": "Confirmed eligible (Headquartered in New Delhi, active in UP)",
+      "verification_status": "Verified Active (Institutional / Community Partner Focus)",
+      "cost_to_user": "Free / Mutual volunteer value exchange"
+    },
+    {
+      "program_name": "CIGMA Laptop Bank",
+      "official_url": "https://cigmafoundation.org/",
+      "evidence_snippet": "Refurbished laptop library providing hardware to deserving students and job seekers. Requires caution deposit and runs monitoring software.",
+      "india_eligibility": "India-only, but regionally anchored in Karnataka; individual eligibility for UP pending inquiry",
+      "verification_status": "Verified Active (Loan Model)",
+      "cost_to_user": "Caution Deposit / Loan"
+    }
+  ],
+  "debunked_schemes": [
+    {
+      "claim_name": "PM Free Laptop Scheme / National Student Laptop Scheme",
+      "debunking_authority": "Press Information Bureau (PIB) Fact Check",
+      "official_url": "https://twitter.com/PIBFactCheck",
+      "evidence_snippet": "PIB confirms Central Government does not operate any free laptop distribution scheme. Viral links are phishing scams designed to steal personal data.",
+      "verification_status": "Debunked Fraud"
+    },
+    {
+      "claim_name": "UP DigiShakti / Swami Vivekanand Yuva Sashaktikaran Yojana (Laptops for All)",
+      "official_portal": "https://digishakti.up.gov.in/",
+      "evidence_snippet": "Legitimate UP state scheme, but provides tablets/smartphones (not laptops) strictly to currently enrolled students via college uploads. Non-enrolled graduates are ineligible.",
+      "verification_status": "Legitimate State Scheme (Not Applicable to Target Profile)"
+    }
+  ],
+  "excluded_foreign_programs": [
+    {
+      "program_name": "PCs for People",
+      "official_url": "https://www.pcsforpeople.org/",
+      "reason_for_exclusion": "US residents only; requires US government benefit proof (SNAP/Medicaid); no international delivery."
+    },
+    {
+      "program_name": "Human-I-T",
+      "official_url": "https://www.human-i-t.org/",
+      "reason_for_exclusion": "US domestic shipping and verification only."
+    },
+    {
+      "program_name": "Computer Aid International",
+      "official_url": "https://www.computeraid.org/",
+      "reason_for_exclusion": "Explicit policy rejecting individual requests; institutional shipments to registered NGOs/schools only."
+    },
+    {
+      "program_name": "The Turing Trust",
+      "official_url": "https://turingtrust.co.uk/",
+      "reason_for_exclusion": "Bulk school projects in Sub-Saharan Africa only; no individual personal device allocation."
+    }
+  ]
+}
