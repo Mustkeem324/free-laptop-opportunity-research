@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Global Free Laptop & Hardware Grant Research" width="100%" />
+</p>
+
 # Evidence-First Free Laptop & Hardware Grant Research Report
 
 > **Execution Date:** October 31, 2026  
